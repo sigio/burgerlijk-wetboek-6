@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 6
 Geraadpleegd op 06-08-2023.
-Geldend van 01-05-2022 t/m 27-05-2022
+Geldend van 28-05-2022 t/m 30-06-2022
 
 Burgerlijk Wetboek Boek 6, Verbintenissenrecht
 
@@ -1330,7 +1330,7 @@ Artikel 193a
 1.	In deze afdeling wordt verstaan onder:
 	a.	consument: natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf;
 	b.	handelaar: natuurlijk persoon of rechtspersoon die handelt in de uitoefening van een beroep of bedrijf of degene die ten behoeve van hem handelt;
-	c.	product: goed, elektriciteit daaronder begrepen, of dienst;
+	c.	product: goed of dienst, met inbegrip van elektriciteit, digitale diensten en digitale inhoud;
 	d.	handelspraktijk: iedere handeling, omissie, gedraging, voorstelling van zaken of commerciële communicatie, met inbegrip van reclame en marketing, van een handelaar, die rechtstreeks verband houdt met de verkoopbevordering, verkoop of levering van een product aan consumenten;
 	e.	besluit over een overeenkomst: een door een consument genomen besluit over de vraag of, en, zo ja, hoe en op welke voorwaarden hij een product koopt, geheel of gedeeltelijk betaalt, behoudt of van de hand doet, of een contractueel recht uitoefent in verband met het product, ongeacht of de consument overgaat tot handelen;
 	f.	professionele toewijding: normale niveau van bijzondere vakkundigheid en van zorgvuldigheid dat redelijkerwijs van een handelaar ten aanzien van consumenten mag worden verwacht, in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiend uit de voor die handelaar geldende professionele standaard en eerlijke marktpraktijken;
@@ -1338,7 +1338,9 @@ Artikel 193a
 	h.	ongepaste beïnvloeding: uitbuiten van een machtspositie ten aanzien van de consument om, zelfs zonder gebruik van of dreiging met fysiek geweld, pressie uit te oefenen op een wijze die het vermogen van de consument om een geïnformeerd besluit te nemen, aanzienlijk beperkt;
 	i.	gedragscode: regels die vaststellen hoe handelaren die zich aan de code binden, zich gedragen met betrekking tot een of meer bepaalde handelspraktijken of bedrijfssectoren en die niet bij of krachtens wettelijke voorschriften zijn vastgesteld;
 	j.	houder van een gedragscode: rechtspersoon of groep van handelaren die verantwoordelijk is voor het opstellen en herzien van een gedragscode of het toezien op de naleving van de gedragscode door degenen die zich hieraan hebben gebonden;
-	k.	richtlijn: richtlijn nr. 2005/29/EG van het Europees Parlement en de Raad van de Europese Unie van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt (PbEG L 149).
+	k.	richtlijn: richtlijn nr. 2005/29/EG van het Europees Parlement en de Raad van de Europese Unie van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt (PbEG L 149);
+	l.	rangschikking: het relatieve belang dat wordt gegeven aan producten zoals gepresenteerd, georganiseerd of meegedeeld door de handelaar, ongeacht de voor die presentatie, organisatie of mededeling gebruikte technologische middelen;
+	m.	onlinemarktplaats: dienst die gebruikmaakt van software, waaronder een website, een deel van een website of een door of namens een handelaar beheerde applicatie, die consumenten in staat stelt een overeenkomst op afstand te sluiten met andere handelaren of consumenten.
 
 2.	In deze afdeling wordt mede verstaan onder gemiddelde consument: het gemiddelde lid van een specifieke groep waarop de handelaar zich richt of het gemiddelde lid van een specifieke groep waarvan de handelaar redelijkerwijs kan voorzien dat die groep wegens hun geestelijke of lichamelijke beperking, hun leeftijd of goedgelovigheid bijzonder vatbaar is voor de handelspraktijk of voor het onderliggende product.
 
@@ -1380,7 +1382,8 @@ waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan 
 		1°.	de verplichting concreet en kenbaar is, en
 		2°.	de handelaar aangeeft dat hij aan die gedragscode gebonden is,
 
-waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen;
+	c.	sprake is van marketing van een goed in één lidstaat, waarbij het goed als identiek wordt voorgesteld aan een goed dat in een andere lidstaat op de markt is, terwijl de samenstelling of kenmerken van dat goed aanzienlijk verschillen en hiervoor geen rechtvaardiging bestaat op grond van legitieme en objectieve factoren.
 
 Artikel 193d
 
@@ -1394,12 +1397,17 @@ Artikel 193d
 
 Artikel 193e
 
-In het geval van een uitnodiging tot aankoop is de volgende informatie, voor zover deze niet reeds uit de context blijkt, essentieel als bedoeld in artikel 193d lid 2:
+1.	In het geval van een uitnodiging tot aankoop is de volgende informatie, voor zover deze niet reeds uit de context blijkt, essentieel als bedoeld in artikel 193d lid 2:
 	a.	de voornaamste kenmerken van het product, in de mate waarin dit gezien het medium en het product passend is;
 	b.	de identiteit en het geografisch adres van de handelaar, zijn handelsnaam en, in voorkomend geval, de identiteit en het geografisch adres van de handelaar namens wie hij optreedt;
 	c.	de prijs, inclusief belastingen, of, als het om een product gaat waarvan de prijs redelijkerwijs niet vooraf kan worden berekend, de manier waarop de prijs wordt berekend en, in voorkomend geval, de extra vracht-, leverings- of portokosten of, indien deze kosten redelijkerwijs niet vooraf kunnen worden berekend, het feit dat deze extra kosten moeten worden betaald;
-	d.	de wijze van betaling, levering, uitvoering en het beleid inzake klachtenbehandeling, indien deze afwijken van de vereisten van professionele toewijding; en
-	e.	indien er een recht op herroeping of annulering is, het bestaan van dit recht.
+	d.	de wijze van betaling, levering en uitvoering, indien deze afwijken van de vereisten van professionele toewijding;
+	e.	indien er een recht op herroeping of annulering is, het bestaan van dit recht;
+	f.	indien het product op een onlinemarktplaats wordt aangeboden, een vermelding door de aanbieder van de onlinemarktplaats op basis van een verklaring van de derde, of de derde die het product op de onlinemarktplaats aanbiedt al dan niet een handelaar is.
+
+2.	Indien consumenten de mogelijkheid wordt geboden om te zoeken naar producten die worden aangeboden door verschillende handelaren of door consumenten op basis van een zoekopdracht in de vorm van een trefwoord, zin of andere invoer, is, ongeacht het sluiten van de overeenkomst, het beschikbaar stellen van algemene informatie, in een specifiek deel van de online interface dat rechtstreeks en eenvoudig toegankelijk is vanaf de pagina waar de zoekresultaten worden gepresenteerd, over de belangrijkste parameters ter bepaling van de rangschikking van producten die aan de consument wordt gepresenteerd als resultaat van de zoekopdracht en het relatieve belang van die parameters ten opzichte van andere parameters, essentieel als bedoeld in artikel 193d lid 2. Dit lid is niet van toepassing op aanbieders van online zoekmachines als bedoeld in artikel 2, onderdeel 6, van verordening (EU) 2019/1150 van het Europees Parlement en de Raad van 20 juni 2019 ter bevordering van billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten (PbEU L 186/57).
+
+3.	Indien een handelaar toegang biedt tot consumentenbeoordelingen van producten, is informatie over of en hoe de handelaar verzekert dat de gepubliceerde beoordelingen afkomstig zijn van consumenten die het product daadwerkelijk hebben gebruikt of aangekocht, essentieel als bedoeld in artikel 193d lid 2.
 
 Artikel 193f
 
@@ -1440,7 +1448,11 @@ De volgende handelspraktijken zijn onder alle omstandigheden misleidend:
 	t.	een product als gratis, voor niets of kosteloos te omschrijven als de consument iets anders moet betalen dan de onvermijdelijke kosten om in te gaan op het aanbod en het product af te halen dan wel dit te laten bezorgen;
 	u.	marketingmateriaal voorzien van een factuur of een soortgelijk document waarin om betaling wordt gevraagd, waardoor bij de consument de indruk wordt gewekt dat hij het aangeprezen product al heeft besteld terwijl dat niet het geval is;
 	v.	op bedrieglijke wijze beweren of de indruk wekken dat de handelaar niet optreedt ten behoeve van zijn handel, bedrijf, ambacht of beroep of zich op bedrieglijke wijze voordoen als consument;
-	w.	op bedrieglijke wijze de indruk wekken dat voor een bepaald product service na verkoop beschikbaar is in een andere lidstaat dan die waar het product wordt verkocht.
+	w.	op bedrieglijke wijze de indruk wekken dat voor een bepaald product service na verkoop beschikbaar is in een andere lidstaat dan die waar het product wordt verkocht;
+	x.	het verschaffen van zoekresultaten in reactie op een online zoekopdracht van een consument zonder duidelijk aan te geven dat het een betaalde reclame betreft of er een betaling is gedaan die specifiek was bedoeld om een hogere rangschikking voor producten te verkrijgen;
+	y.	het doorverkopen van tickets aan consumenten indien de handelaar deze heeft verkregen door gebruik te maken van elektronische middelen, bedoeld om ingestelde limieten over het aantal tickets dat een persoon mag kopen of andere regels die van toepassing zijn op de aankoop van tickets, te omzeilen;
+	z.	beweren dat beoordelingen van producten zijn ingediend door consumenten die het product daadwerkelijk hebben gebruikt of aangekocht, zonder dat de handelaar redelijke en proportionele stappen heeft genomen om na te gaan of deze beoordelingen daadwerkelijk afkomstig zijn van dergelijke consumenten;
+	aa.	het plaatsen of doen plaatsen van valse beoordelingen of aanbevelingen van consumenten of op misleidende wijze voorstellen van consumentenbeoordelingen of sociale media-aanbevelingen, teneinde producten te promoten.
 
 Artikel 193h
 
@@ -1943,7 +1955,7 @@ Artikel 230g
 	a.	consument: iedere natuurlijke persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteit vallen;
 	b.	handelaar: iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;
 	c.	consumentenkoop: de overeenkomst, bedoeld in artikel 5 lid 1, onderdeel a, van Boek 7;
-	d.	overeenkomst tot het verrichten van diensten: iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst te verrichten en de consument zich verbindt een prijs te betalen of indien van toepassing een digitale weergave van waarde, bedoeld in artikel 50aa, onderdeel f, van Boek 7;
+	d.	overeenkomst tot het verrichten van diensten: iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst, met inbegrip van een digitale dienst, te verrichten;
 	e.	overeenkomst op afstand: de overeenkomst die tussen de handelaar en de consument wordt gesloten in het kader van een georganiseerd systeem voor verkoop of dienstverlening op afstand zonder gelijktijdige persoonlijke aanwezigheid van handelaar en consument en waarbij, tot en met het moment van het sluiten van de overeenkomst, uitsluitend gebruik wordt gemaakt van een of meer middelen voor communicatie op afstand;
 	f.	overeenkomst buiten de verkoopruimte: iedere overeenkomst tussen de handelaar en de consument, die:
 		1°.	wordt gesloten in gelijktijdige persoonlijke aanwezigheid van de handelaar en de consument op een andere plaats dan de verkoopruimte van de handelaar of waarvoor door de consument een aanbod is gedaan onder dezelfde omstandigheden;
@@ -1961,7 +1973,17 @@ Artikel 230g
 	n.	ontbindingstermijn: de termijn waarbinnen het recht van ontbinding overeenkomstig artikel 230o kan worden uitgeoefend;
 	o.	financieel product, financiële dienst, financiële onderneming, krediet, levensverzekering, natura-uitvaartverzekeraar en verzekering: hetgeen daaronder wordt verstaan in artikel 1:1 van de Wet op het financieel toezicht en de daarop berustende bepalingen;
 	p.	richtlijn: Richtlijn 2011/83/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende consumentenrechten, tot wijziging van Richtlijn 93/13/EEG van de Raad en van Richtlijn 1999/44/EG van het Europees Parlement en de Raad en tot intrekking van Richtlijn 85/577/EEG en van Richtlijn 97/7/EG van het Europees Parlement en de Raad (Pb EU L 304/64);
-	q.	richtlijn nr. 2002/65/EG: richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271/16).
+	q.	richtlijn nr. 2002/65/EG: richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten (PbEG L 271/16);
+	r.	zaak met digitale elementen: roerende zaak waarin digitale inhoud of een digitale dienst is verwerkt of die daarmee onderling verbonden is, op zodanige wijze dat het ontbreken daarvan ertoe zou leiden dat de zaak zijn functies niet kan vervullen;
+	s.	persoonsgegevens: persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (PbEU 2016 L 119);
+	t.	digitale dienst:
+		1°.	dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen; of
+		2°.	dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
+	u.	onlinemarktplaats: dienst die gebruikmaakt van software, waaronder een website, een deel van een website of een door of namens de handelaar beheerde applicatie, die consumenten in staat stelt een overeenkomst op afstand te sluiten met andere handelaren of consumenten;
+	v.	aanbieder van een onlinemarktplaats: handelaar die consumenten een onlinemarktplaats aanbiedt;
+	w.	compatibiliteit: het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt, zonder dat die digitale inhoud of digitale dienst moeten worden omgezet;
+	x.	functionaliteit: het vermogen van de digitale inhoud of digitale dienst om zijn functies te vervullen met betrekking tot het doel ervan;
+	y.	interoperabiliteit: het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software die verschilt van die waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt.
 
 2.	Voor de toepassing van deze afdeling gelden voor een overeenkomst die zowel de levering van roerende zaken als het verrichten van diensten betreft, met uitzondering van artikel 230s lid 4, slechts de bepalingen die van toepassing zijn op consumentenkoop.
 
@@ -1971,7 +1993,9 @@ Artikel 230g
 
 Artikel 230h
 
-1.	Deze afdeling is van toepassing op overeenkomsten gesloten tussen een handelaar en een consument.
+1.	Deze afdeling is van toepassing op overeenkomsten gesloten tussen een handelaar en een consument:
+	a.	waarbij de consument de prijs ervan betaalt of zich ertoe verbindt deze te betalen; of
+	b.	waarbij een handelaar digitale inhoud levert die niet wordt geleverd op een materiële drager of een digitale dienst verricht of zich ertoe verbindt deze te verrichten en de consument persoonsgegevens aan de handelaar verstrekt of zich ertoe verbindt deze te verstrekken, tenzij de door de consument verstrekte persoonsgegevens uitsluitend worden verwerkt door de handelaar voor het leveren van de digitale inhoud die niet op een materiële drager wordt geleverd of voor het verrichten van de digitale dienst of om de handelaar in staat te stellen te voldoen aan de op hem van toepassing zijnde wettelijke vereisten, en de handelaar die gegevens voor geen enkel ander doel verwerkt.
 
 2.	Deze afdeling is niet van toepassing op een overeenkomst:
 	a.	buiten de verkoopruimte waarbij de verbintenis van de consument tot betaling ten hoogste 50 euro bedraagt;
@@ -1992,7 +2016,7 @@ Artikel 230h
 
 4.	Deze afdeling is niet van toepassing op zaken die executoriaal worden verkocht.
 
-5.	Op de overeenkomst van personenvervoer zijn slechts de artikelen 230i lid 1, 230j, 230k lid 1 en 230v leden 2 en 3 van toepassing.
+5.	Op de overeenkomst van personenvervoer zijn slechts de artikelen 230i lid 1, 230j, 230k en 230v leden 2 en 3 van toepassing.
 
 Artikel 230i
 
@@ -2023,10 +2047,10 @@ Voordat de consument door enige andere overeenkomst dan een overeenkomst op afst
 	b.	de identiteit van de handelaar, zoals zijn handelsnaam, het geografische adres waar hij gevestigd is en zijn telefoonnummer;
 	c.	de totale prijs van de zaken of diensten, met inbegrip van alle belastingen, of, als door de aard van de zaak of de dienst de prijs redelijkerwijs niet vooraf kan worden berekend, de manier waarop de prijs moet worden berekend, en, voor zover van toepassing, alle extra vracht-, leverings- of portokosten of, indien deze kosten redelijkerwijs niet vooraf kunnen worden berekend, in ieder geval het feit dat er eventueel dergelijke extra kosten verschuldigd kunnen zijn;
 	d.	voor zover van toepassing, de wijze van betaling, levering, nakoming, de termijn waarbinnen de handelaar zich verbindt de zaak te leveren of de dienst te verlenen, en het beleid van de handelaar inzake klachtenbehandeling;
-	e.	naast een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst, het bestaan en de voorwaarden van diensten na verkoop en van commerciële garanties, voor zover van toepassing;
+	e.	naast een herinnering aan het bestaan van de wettelijke regeling om een zaak of digitale inhoud te leveren of een digitale dienst te verrichten die beantwoordt aan de overeenkomst, het bestaan en de voorwaarden van diensten na verkoop en van commerciële garanties, voor zover van toepassing;
 	f.	voor zover van toepassing, de duur van de overeenkomst, of, wanneer de overeenkomst van onbepaalde duur is of automatisch verlengd wordt, de voorwaarden voor het opzeggen van de overeenkomst;
-	g.	voor zover van toepassing, de functionaliteit van digitale inhoud, met inbegrip van toepasselijke technische beveiligingsvoorzieningen;
-	h.	voor zover van toepassing, de relevante interoperabiliteit van digitale inhoud met hardware en software waarvan de handelaar op de hoogte is of redelijkerwijs kan worden verondersteld op de hoogte te zijn.
+	g.	voor zover van toepassing, de functionaliteit van een zaak met digitale elementen, digitale inhoud of een digitale dienst, met inbegrip van toepasselijke technische beveiligingsvoorzieningen;
+	h.	voor zover van toepassing, de relevante compatibiliteit en interoperabiliteit van een zaak met digitale elementen, digitale inhoud of een digitale dienst waarvan de handelaar op de hoogte is of redelijkerwijs kan worden verondersteld op de hoogte te zijn.
 
 Paragraaf 3. – Bepalingen voor overeenkomsten op afstand en overeenkomsten buiten de verkoopruimte
 
@@ -2035,7 +2059,7 @@ Artikel 230m
 1.	Voordat de consument gebonden is aan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte, dan wel aan een daartoe strekkend aanbod, verstrekt de handelaar de consument op duidelijke en begrijpelijke wijze de volgende informatie:
 	a.	de voornaamste kenmerken van de zaken of de diensten, in de mate waarin dit gezien de gebruikte drager en de zaken of diensten passend is;
 	b.	de identiteit van de handelaar, zoals zijn handelsnaam;
-	c.	het geografisch adres waar de handelaar gevestigd is en het telefoonnummer, fax en e-mailadres van de handelaar, indien beschikbaar, alsmede, indien van toepassing, het geografische adres en de identiteit van de handelaar voor wiens rekening hij optreedt;
+	c.	het geografische adres waar de handelaar gevestigd is en het telefoonnummer en e-mailadres van de handelaar en, indien de handelaar andere vormen van online communicatie verstrekt waarmee de consument de schriftelijke correspondentie met de handelaar, waaronder de datum en het tijdstip van dergelijke correspondentie, op een duurzame gegevensdrager kan bewaren, gedetailleerde informatie over deze andere vormen, alsmede, indien van toepassing, het geografische adres en de identiteit van de handelaar namens wie hij optreedt;
 	d.	wanneer dat verschilt van het overeenkomstig onderdeel c verstrekte adres, het geografische adres van de bedrijfsvestiging van de handelaar, en indien van toepassing dat van de handelaar voor wiens rekening hij optreedt, waaraan de consument eventuele klachten kan richten;
 	e.	de totale prijs van de zaken of diensten, met inbegrip van alle belastingen, of, als door de aard van de zaak of de dienst de prijs redelijkerwijs niet vooraf kan worden berekend, de manier waarop de prijs moet worden berekend, en, in voorkomend geval, alle extra vracht-, leverings- of portokosten en eventuele andere kosten of, indien deze kosten redelijkerwijs niet vooraf kunnen worden berekend, het feit dat er eventueel dergelijke extra kosten verschuldigd kunnen zijn. In het geval van een overeenkomst voor onbepaalde duur of een overeenkomst die een abonnement inhoudt, omvat de totale prijs de totale kosten per factureringsperiode. Indien voor een dergelijke overeenkomst een vast tarief van toepassing is, omvat de totale prijs ook de totale maandelijkse kosten. Indien de totale kosten niet redelijkerwijze vooraf kunnen worden berekend, wordt de manier waarop de prijs moet worden berekend, medegedeeld;
 	f.	de kosten voor het gebruik van middelen voor communicatie op afstand voor het sluiten van de overeenkomst wanneer deze kosten op een andere grondslag dan het basistarief worden berekend;
@@ -2044,17 +2068,24 @@ Artikel 230m
 	i.	voor zover van toepassing, het feit dat de consument de kosten van het terugzenden van de zaken zal moeten dragen in geval van uitoefening van het recht van ontbinding en, voor een overeenkomst op afstand, indien de zaken door hun aard niet per gewone post kunnen worden teruggezonden, de kosten van het terugzenden van de zaken;
 	j.	ingeval de consument zijn recht van ontbinding uitoefent nadat hij een verzoek overeenkomstig artikel 230t lid 3 of artikel 230v lid 8 heeft gedaan, dat de consument de handelaar diens redelijke kosten vergoedt overeenkomstig 230s lid 4;
 	k.	indien er niet voorzien is in het recht van ontbinding van de overeenkomst, de informatie dat de consument geen recht van ontbinding heeft of, voor zover van toepassing, de omstandigheden waarin de consument afstand doet van zijn recht van ontbinding;
-	l.	een herinnering aan het bestaan van de wettelijke waarborg dat de afgeleverde zaak aan de overeenkomst moet beantwoorden;
+	l.	een herinnering aan het bestaan van de wettelijke waarborg dat de afgeleverde zaak, de digitale inhoud of de digitale dienst aan de overeenkomst moet beantwoorden;
 	m.	voor zover van toepassing, het bestaan en de voorwaarden van bijstand aan de consument na verkoop, van diensten na verkoop en van commerciële garanties;
 	n.	voor zover van toepassing, het bestaan van relevante gedragscodes, bedoeld in artikel 193a lid 1, onderdeel i, en hoe een afschrift daarvan kan worden verkregen;
 	o.	de duur van de overeenkomst, voor zover van toepassing, of, wanneer de overeenkomst voor onbepaalde duur is of stilzwijgend vernieuwd wordt, de voorwaarden voor het opzeggen van de overeenkomst;
 	p.	voor zover van toepassing, de minimumduur van de uit de overeenkomst voortvloeiende verplichtingen voor de consument;
 	q.	voor zover van toepassing, het bestaan en de voorwaarden van waarborgsommen of andere financiële garanties die de consument op verzoek van de handelaar moet betalen of bieden;
-	r.	voor zover van toepassing, de functionaliteit van digitale inhoud met inbegrip van toepasselijke technische beveiligingsvoorzieningen;
-	s.	voor zover van toepassing, de relevante interoperabiliteit van digitale inhoud met hardware en software waarvan de handelaar op de hoogte is of redelijkerwijs kan worden verondersteld op de hoogte te zijn;
-	t.	voor zover van toepassing, de mogelijkheid van toegang tot buitengerechtelijke klachten- en geschilbeslechtingsprocedures waarbij de handelaar zich heeft aangesloten, en de wijze waarop daar toegang toe is.
+	r.	voor zover van toepassing, de functionaliteit van een zaak met digitale elementen, digitale inhoud of een digitale dienst met inbegrip van toepasselijke technische beveiligingsvoorzieningen;
+	s.	voor zover van toepassing, de relevante comptabiliteit en interoperabiliteit van een zaak met digitale elementen, digitale inhoud of een digitale dienst waarvan de handelaar op de hoogte is of redelijkerwijs kan worden verondersteld op de hoogte te zijn;
+	t.	voor zover van toepassing, de mogelijkheid van toegang tot buitengerechtelijke klachten- en geschilbeslechtingsprocedures waarbij de handelaar zich heeft aangesloten, en de wijze waarop daar toegang toe is;
+	u.	indien van toepassing, dat de prijs is gepersonaliseerd op basis van geautomatiseerde besluitvorming.
 
 2.	Bij een openbare veiling kan aan de in lid 1 in onderdelen b, c en d, bedoelde informatieverplichting worden voldaan door de overeenkomstige gegevens van de veilingmeester te verstrekken.
+
+3.	Voordat de consument gebonden is aan een overeenkomst op afstand, of een overeenstemmend aanbod, op een onlinemarktplaats, verstrekt de aanbieder van de onlinemarktplaats de consument op een duidelijke en begrijpelijke wijze die passend is voor communicatie op afstand, de volgende informatie:
+	a.	algemene informatie die beschikbaar wordt gesteld in een specifieke afdeling van de online interface die rechtstreeks en gemakkelijk toegankelijk is vanaf de pagina waarop de aanbiedingen worden gepresenteerd, over de belangrijkste parameters ter bepaling van de rangschikking, bedoeld in artikel 193a lid 1, onderdeel l, van de aanbiedingen die aan de consument worden gepresenteerd als gevolg van de zoekopdracht, en het relatieve belang van die parameters ten opzichte van andere parameters;
+	b.	of de derde die de zaken, diensten of digitale inhoud aanbiedt, al dan niet een handelaar is, op basis van de verklaring van deze derde aan de aanbieder van de onlinemarktplaats;
+	c.	wanneer de derde die de zaken, diensten of digitale inhoud aanbiedt, geen handelaar is, dat de uit het Unierecht voortvloeiende consumentenrechtenbescherming niet van toepassing is op de overeenkomst;
+	d.	indien van toepassing, de wijze waarop de met de overeenkomst verband houdende verplichtingen worden verdeeld tussen de derde die de zaken, diensten of digitale inhoud aanbiedt en de aanbieder van de onlinemarktplaats, waarbij dergelijke informatie geen afbreuk doet aan de verantwoordelijkheid die de aanbieder van de onlinemarktplaats of de derde-handelaar overeenkomstig het Unierecht of nationale recht heeft met betrekking tot de overeenkomst.
 
 Artikel 230n
 
@@ -2093,7 +2124,7 @@ De consument heeft geen recht van ontbinding bij:
 		1°.	aanvullende dienstverlening waar de consument niet uitdrukkelijk om heeft verzocht;
 		2°.	de levering van andere zaken dan die noodzakelijk zijn om het onderhoud of de herstellingen uit te voeren;
 	c.	een overeenkomst die is gesloten tijdens een openbare veiling;
-	d.	een overeenkomst tot het verrichten van diensten, na nakoming van de overeenkomst, indien:
+	d.	een overeenkomst tot het verrichten van diensten, na nakoming van de overeenkomst, en voor zover de overeenkomst voor de consument een betalingsverplichting inhoudt, indien:
 		1°.	de nakoming is begonnen met uitdrukkelijke voorafgaande instemming van de consument; en
 		2°.	de consument heeft verklaard afstand te doen van zijn recht van ontbinding zodra de handelaar de overeenkomst is nagekomen;
 	e.	een overeenkomst tot het verrichten van diensten die strekt tot de terbeschikkingstelling van accommodatie anders dan voor woondoeleinden, van goederenvervoer, van autoverhuurdiensten, van catering en van diensten met betrekking tot vrijetijdsbesteding, indien in de overeenkomst een bepaald tijdstip of een bepaalde periode van nakoming is voorzien;
@@ -2105,7 +2136,10 @@ De consument heeft geen recht van ontbinding bij:
 		5°.	de levering van alcoholische dranken waarvan de prijs is overeengekomen bij het sluiten van een consumentenkoop, maar waarvan de levering slechts kan plaatsvinden na dertig dagen, en waarvan de werkelijke waarde afhankelijk is van schommelingen van de markt waarop de handelaar geen invloed heeft;
 		6°.	de levering van audio- en video-opnamen en computerprogrammatuur waarvan de verzegeling na levering is verbroken;
 		7°.	de levering van kranten, tijdschriften of magazines, met uitzondering van een overeenkomst voor de geregelde levering van dergelijke publicaties;
-	g.	de levering van digitale inhoud die niet op een materiële drager is geleverd, voor zover de nakoming is begonnen met uitdrukkelijke voorafgaande toestemming van de consument en de consument heeft verklaard dat hij daarmee afstand doet van zijn recht van ontbinding.
+	g.	een overeenkomst voor de levering van digitale inhoud die niet op een materiële drager is geleverd voor zover de nakoming is begonnen, en voor zover de overeenkomst voor de consument een betalingsverplichting inhoudt, indien:
+		1°.	de nakoming is begonnen met uitdrukkelijke voorafgaande toestemming van de consument;
+		2°.	de consument heeft verklaard dat hij daarmee afstand doet van zijn recht van ontbinding; en
+		3°.	de handelaar een bevestiging heeft verstrekt als bedoeld in artikel 230t lid 2, of artikel 230v lid 7.
 
 Artikel 230q
 
@@ -2122,6 +2156,16 @@ Artikel 230r
 3.	Onverminderd het bepaalde in lid 1 is de handelaar niet verplicht de bijkomende kosten terug te betalen, indien de consument uitdrukkelijk voor een andere wijze dan de door de handelaar aangeboden minst kostbare wijze van standaardlevering heeft gekozen.
 
 4.	Tenzij de handelaar heeft aangeboden de op basis van de ontbonden overeenkomst geleverde zaken zelf af te halen, kan de consument eerst nakoming vorderen van de in lid 1 bedoelde verbintenis nadat de handelaar de zaken heeft ontvangen of de consument heeft aangetoond dat hij de zaken heeft teruggezonden, naar gelang welk tijdstip het eerst valt.
+
+5.	De handelaar ziet bij ontbinding af van het gebruik van andere inhoud dan persoonsgegevens die door de consument was verstrekt of gecreëerd bij het gebruik van de door de handelaar geleverde digitale inhoud of verrichte digitale dienst, tenzij die inhoud:
+	a.	geen nut heeft buiten de context van de door de handelaar geleverde digitale inhoud of verrichte digitale dienst;
+	b.	uitsluitend verband houdt met de activiteit van de consument bij het gebruik van de door de handelaar geleverde digitale inhoud of verrichte digitale dienst;
+	c.	door de handelaar met andere gegevens is samengevoegd en niet of uitsluitend met bovenmatige inspanningen kan worden ontvlochten; of
+	d.	door de consument en anderen gezamenlijk is gegenereerd, en andere consumenten die inhoud kunnen blijven gebruiken.
+
+6.	De handelaar maakt op verzoek van de consument alle andere inhoud dan persoonsgegevens beschikbaar die door de consument was verstrekt of gecreëerd bij het gebruik van de door de handelaar geleverde digitale inhoud of verrichte digitale dienst, uitgezonderd de in lid 5, onderdelen a, b of c, genoemde situaties. De consument heeft het recht die inhoud kosteloos binnen een redelijke termijn en in een gangbaar en machinaal leesbaar gegevensformaat op te vragen, zonder belemmeringen van de handelaar.
+
+7.	Onverminderd lid 6 kan de handelaar elk verder gebruik van de digitale inhoud of digitale dienst door de consument beletten.
 
 Artikel 230s
 
@@ -2144,6 +2188,8 @@ Artikel 230s
 
 6.	De consument is niet aansprakelijk noch enige kosten verschuldigd door de uitoefening van zijn recht van ontbinding, onverminderd het bepaalde in lid 3, alsmede artikel 230r lid 3.
 
+7.	Na de ontbinding van de overeenkomst ziet de consument af van het gebruik van de digitale inhoud of de digitale dienst en van de terbeschikkingstelling daarvan aan derden.
+
 Paragraaf 4. – Aanvullende bepalingen voor overeenkomsten buiten de verkoopruimte
 
 Artikel 230t
@@ -2152,7 +2198,7 @@ Artikel 230t
 
 2.	De handelaar verstrekt aan de consument op papier, of, indien de consument hiermee instemt, op een andere duurzame gegevensdrager, een afschrift van de ondertekende overeenkomst of de bevestiging van de overeenkomst, met inbegrip van de bevestiging van de uitdrukkelijke voorafgaande toestemming en de verklaring van de consument waarmee hij afstand doet van zijn recht van ontbinding overeenkomstig artikel 230p onderdeel g, voor zover van toepassing.
 
-3.	Nakoming van een overeenkomst tot het verrichten van diensten of voor de levering van water, gas of elektriciteit, die niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of van stadsverwarming, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, door middel van een daartoe strekkende schriftelijke verklaring op een duurzame gegevensdrager.
+3.	Nakoming van een overeenkomst tot het verrichten van diensten of voor de levering van water, gas of elektriciteit, die niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of van stadsverwarming, en die overeenkomst een betalingsverplichting inhoudt, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, door middel van een daartoe strekkende schriftelijke verklaring op een duurzame gegevensdrager, en de consument heeft verklaard dat hij afstand doet van zijn recht op ontbinding zodra de handelaar de overeenkomst volledig is nagekomen.
 
 4.	Bij ontbinding overeenkomstig artikel 230o haalt de handelaar op zijn kosten de aan de consument geleverde zaak af wanneer deze:
 	a.	bij het sluiten van de overeenkomst bij de consument thuis is geleverd; en
@@ -2176,7 +2222,7 @@ Artikel 230v
 
 4.	Op websites waarop zaken of diensten door de handelaar worden aangeboden wordt uiterlijk aan het begin van het bestelproces duidelijk en leesbaar aangegeven of er beperkingen gelden voor de levering en welke betaalmiddelen worden aanvaard.
 
-5.	Voordat een overeenkomst op afstand wordt gesloten met behulp van een middel voor communicatie op afstand dat beperkte ruimte of tijd biedt voor het tonen van de informatie, verstrekt de handelaar, via dat specifieke middel, ten minste de precontractuele informatie over de voornaamste kenmerken van de zaken of diensten, de identiteit van de handelaar, de totale prijs, het recht van ontbinding, de duur van de overeenkomst en, bij een overeenkomst voor onbepaalde tijd, de voorwaarden om de overeenkomst op te zeggen, bedoeld in artikel 230m lid 1 onderdelen a, b, e, h en o. De overige in artikel 230m lid 1 bedoelde informatie wordt door de handelaar op passende wijze aan de consument verstrekt, overeenkomstig lid 1.
+5.	Voordat een overeenkomst op afstand wordt gesloten met behulp van een middel voor communicatie op afstand dat beperkte ruimte of tijd biedt voor het tonen van de informatie, verstrekt de handelaar, bij of via dat specifieke middel, ten minste de precontractuele informatie over de voornaamste kenmerken van de zaken of diensten, de identiteit van de handelaar, de totale prijs, het recht van ontbinding, de duur van de overeenkomst en, bij een overeenkomst voor onbepaalde tijd, de voorwaarden om de overeenkomst op te zeggen, bedoeld in artikel 230m lid 1 onderdelen a, b, e, h en o, met uitzondering van het in onderdeel h bedoelde en in bijlage I, deel B, van de richtlijn opgenomen modelformulier voor ontbinding. De overige in artikel 230m lid 1 bedoelde informatie, met inbegrip van het modelformulier voor ontbinding, wordt door de handelaar op passende wijze aan de consument verstrekt, overeenkomstig lid 1.
 
 6.	De handelaar deelt bij het gebruik van de telefoon met als doel het sluiten van een overeenkomst op afstand met een consument aan het begin van het gesprek de identiteit en, voor zover van toepassing, de identiteit van de persoon namens wie hij opbelt, alsmede het commerciële doel van het gesprek mede. Een overeenkomst op afstand tot het geregeld verrichten van diensten of tot het geregeld leveren van gas, elektriciteit, water of van stadsverwarming, die het gevolg is van dit gesprek, wordt schriftelijk aangegaan. Van deze eis van schriftelijkheid is uitgezonderd de overeenkomst waarin een tussen partijen bestaande overeenkomst wordt verlengd of vernieuwd.
 
@@ -2184,7 +2230,7 @@ Artikel 230v
 	a.	alle in artikel 230m lid 1 bedoelde informatie, voor zover de handelaar deze niet voor het sluiten van de overeenkomst op een duurzame gegevensdrager heeft verstrekt; en
 	b.	voor zover van toepassing, de bevestiging van de uitdrukkelijke voorafgaande toestemming en de verklaring van de consument overeenkomstig artikel 230p onderdeel g.
 
-8.	Nakoming van een overeenkomst op afstand tot het verrichten van een dienst of tot levering van water, gas of elektriciteit, die niet gereed voor verkoop zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of tot levering van stadsverwarming, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument.
+8.	Nakoming van een overeenkomst op afstand tot het verrichten van een dienst of tot levering van water, gas of elektriciteit, die niet gereed voor verkoop zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of tot levering van stadsverwarming, en die overeenkomst een betalingsverplichting inhoudt, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, en de consument heeft verklaard dat hij afstand doet van zijn recht op ontbinding zodra de handelaar de overeenkomst volledig is nagekomen.
 
 Paragraaf 6. – Specifieke bepalingen voor overeenkomsten op afstand en buiten de verkoopruimte inzake financiële producten en financiële diensten
 
